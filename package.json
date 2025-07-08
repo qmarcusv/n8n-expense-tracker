@@ -1,0 +1,16 @@
+{
+	"name": "n8n-expense-tracker",
+	"version": "1.0.0",
+	"description": "n8n expense tracker for family",
+	"main": "index.js",
+	"scripts": {
+		"start": "n8n start",
+		"build": "echo 'No build step required'"
+	},
+	"dependencies": {
+		"n8n": "^1.0.0"
+	},
+	"engines": {
+		"node": ">=18.0.0"
+	}
+}
